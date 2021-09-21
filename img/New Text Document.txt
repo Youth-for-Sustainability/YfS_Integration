@@ -1,0 +1,9 @@
+svg width=1920 height=1200 viewBox=0 0 1920 1200 fill=none xmlns=httpwww.w3.org2000svg
+rect width=1920 height=1200 fill=url(#paint0_linear)
+defs
+linearGradient id=paint0_linear x1=1015.5 y1=937.5 x2=550 y2=-365 gradientUnits=userSpaceOnUse
+stop stop-color=#0B1D26 stop-opacity=0
+stop offset=1 stop-color=#0B1D26
+linearGradient
+defs
+svg
